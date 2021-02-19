@@ -4,7 +4,7 @@ This document is a guide for Projects to safely implement the OpenJS Foundation 
 
 ## Adding the Foundation Code of Conduct to your Project
 
-Adopting the Foundation Code of Conduct is a requirement for all OpenJSF projects. Completing this action will meet the first requirement in the [Project Onboarding Checklist](https://github.com/openjs-foundation/project-status/blob/main/.github/ISSUE_TEMPLATE/project-onboarding-checklist-template.md).
+Adopting the Foundation Code of Conduct is a requirement for all OpenJSF projects. Completing this action will meet the first requirement in the [Project Onboarding Checklist](https://github.com/openjs-foundation/project-status/blob/HEAD/.github/ISSUE_TEMPLATE/project-onboarding-checklist-template.md).
 
 Projects may add the Foundation's Code of Conduct a few different ways - the choice is left to the project based on what best suits its size and community. 
 
