@@ -1,6 +1,8 @@
 # code-of-conduct
 Code of Conduct Working Group
 
+THIS REPO IS FOR WORKING GROUP ACTIVITIES. SEE CROSS PROJECT COUNCIL REPO FOR CODE OF CONDUCT DOCUMENTS.
+
 ## Reference Documents
 
 * [Draft Charter Document](https://docs.google.com/document/d/13CVtT8Y507CTvu5qypxz3Lj2PwTk5Xu916wO4dzVBoI/edit)
